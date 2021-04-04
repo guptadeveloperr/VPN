@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_upgrade"
+            android:icon="@drawable/ic_vpn_key_black_24dp"
+            android:title="Select Country" />
+
+        <item
+            android:id="@+id/nav_unlock"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="Purchases" />
+
+        <item
+            android:id="@+id/nav_helpus"
+            android:icon="@drawable/ic_email_black_24dp"
+            android:title="Help us to improve" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_thumb_up_black_24dp"
+            android:title="Rate us" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="Tell your friend" />
+
+
+        <item
+            android:id="@+id/nav_policy"
+            android:icon="@drawable/ic_verified_user_black_24dp"
+            android:title="Privacy Policy" />
+
+    </group>
+
+</menu>

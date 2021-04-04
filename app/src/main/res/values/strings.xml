@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Support VPN</string>
+    <string name="app_browser_name">Support Browser</string>
+
+
+    //Ad type
+    //type carefully
+    // Google ads for = 1
+    //Facebook ads for = 2
+    // recommend to use admob
+    <integer name="ad_type">1</integer>
+
+
+    <string name="admob_app_id">ca-app-pub-2172557384512058~9870408552</string>
+
+    <string name="admob_interstitial_id">ca-app-pub-2172557384512058/2534009868</string>
+    <string name="admob_banner_id">ca-app-pub-2172557384512058/7181021253</string>
+
+    <string name="fan_interstitial_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="fan_banner_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+
+    <!--Change Privacy Policy URL-->
+    <string name="privacy_policy_link">https://edutechdeveloper.000webhostapp.com/privacy%20policy.html</string>
+    <!--END Change Privacy Policy URL-->
+
+    <string name="vpn_process_name" translatable="false">:vpn</string>
+    <string name="subscription_notices">You can cancel subscription or free trial any time by canceling your subscription thought google account setting, or it will automatically renew. /n This Must be done 24 hours before the end of the current period</string>
+    <string name="do_you_love_dora_vpn">Do you love Support VPN?</string>
+    <string name="no_not_really">No, not really</string>
+    <string name="get_premium">Get Premium</string>
+    <string name="no_ads">No Ads</string>
+    <string name="increase_connection_spreed">Increase connection spreed</string>
+    <string name="premium_vertical_location">Premium vertical server</string>
+    <string name="_1_month">1 Month</string>
+
+
+    <string name="total_price_12_99">Total Price $2.50</string>
+    <string name="_12_99">$2.50</string>
+    <string name="monthly">Monthly</string>
+    <string name="_6_months">6 Months</string>
+    <string name="total_price_53_99">Total Price $6.50</string>
+    <string name="_8_99">$1.10</string>
+    <string name="_5_83">$1.08</string>
+    <string name="_12_months">12 Months</string>
+    <string name="total_price_66_99">Total Price $12.99</string>
+    <string name="_12_99_month_7_day_free_trial">$2.50/month | 7 - day free trial</string>
+
+
+    <string name="select_country">Select Country</string>
+    <string name="connected">Connected</string>
+    <string name="yes_rate_it">Yes, Rate it!</string>
+    <string name="fast_and_secure_vpn">Fast and secure vpn</string>
+    <string name="staring_vpn">Staring VPN</string>
+    <string name="united_state">United State</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="default_region">DEFAULT REGION</string>
+    <string name="welcome_lo">Get unrestricted private online\n access from school and work\n using Support VPN</string>
+    <string name="subcriptions_notics">Premium subscriptions automatically renew and you will be charged through your google account. Unused portion of free trial is forfeited after purchase</string>
+
+</resources>
