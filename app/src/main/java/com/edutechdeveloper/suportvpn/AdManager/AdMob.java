@@ -76,9 +76,9 @@ public class AdMob {
     }
 
     public static void reloaded(){
-       if (!mInterstitialAd.isLoaded()){
-           mInterstitialAd.loadAd(new AdRequest.Builder().build());
-       }
+        if (!mInterstitialAd.isLoaded()){
+            mInterstitialAd.loadAd(new AdRequest.Builder().build());
+        }
     }
 
     public static boolean show(){
@@ -87,7 +87,7 @@ public class AdMob {
             return true;
         } else {
             isRequestShowAd = true;
-             return false;
+            return false;
         }
     }
 }
