@@ -8,7 +8,7 @@
     // Google ads for = 1
     //Facebook ads for = 2
     // recommend to use admob
-    <integer name="ad_type">1</integer>
+    <integer name="ad_type">2</integer>
 
 
     <string name="admob_app_id">ca-app-pub-2172557384512058~9870408552</string>
@@ -16,8 +16,8 @@
     <string name="admob_interstitial_id">ca-app-pub-2172557384512058/2534009868</string>
     <string name="admob_banner_id">ca-app-pub-2172557384512058/7181021253</string>
 
-    <string name="fan_interstitial_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
-    <string name="fan_banner_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="fan_interstitial_id">172367311384770_172367811384720</string>
+    <string name="fan_banner_id">172367311384770_172368048051363</string>
 
 
     <!--Change Privacy Policy URL-->
