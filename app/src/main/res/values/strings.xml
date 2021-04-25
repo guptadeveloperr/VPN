@@ -8,7 +8,7 @@
     // Google ads for = 1
     //Facebook ads for = 2
     // recommend to use admob
-    <integer name="ad_type">2</integer>
+    <integer name="ad_type">1</integer>
 
 
     <string name="admob_app_id">ca-app-pub-2172557384512058~9870408552</string>
