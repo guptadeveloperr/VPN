@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221247264196",
+    "project_id": "support-vpn01",
+    "storage_bucket": "support-vpn01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221247264196:android:ebdeb667f56e688dde4091",
+        "android_client_info": {
+          "package_name": "com.edutechdeveloper.suportvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221247264196-b66q2766pmjtfgnhlbdpidcr6unqmqjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1XwmRoKcuuKBphU8z7_KKulbabgaop4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221247264196-b66q2766pmjtfgnhlbdpidcr6unqmqjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
