@@ -12,10 +12,9 @@ android {
                 keyAlias 'Lalit@8210350'
             }
             }
-            compileSdkVersion 30
-            buildToolsVersion "29.0.3"
-
-            defaultConfig {
+    compileSdkVersion 30
+    buildToolsVersion "29.0.3"
+     defaultConfig {
                 applicationId "com.edutechdeveloper.suportvpn"
                 minSdkVersion 16
                 targetSdkVersion 30
